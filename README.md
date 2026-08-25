@@ -1,9 +1,8 @@
 # 👨🏻‍💻 Gustavo Rocha
 
-**`Desenvolvedor Front-End`**
+**`Desenvolvedor de Software`**
 
-Me chamo Gustavo Rocha, tenho 19 anos e sou natural de Manaus, Amazonas. Cursando Analises de Sistemas na ESBAM,  Atualmente, estou finalizando meu curso em Análise e Desenvolvimento de Sistemas. Sou apaixonado por tecnologia e compartilho meus projetos atraves do GitHub.
-
+Desenvolvedor focado na construção de sistemas robustos, eficientes e de alto desempenho. Tenho base sólida em desenvolvimento Front-end com React, onde adquiri ampla bagagem na criação de interfaces dinâmicas, mas hoje direciono minha carreira e entusiasmo para o ecossistema Back-end. Tenho grande afinidade pela arquitetura de servidores e infraestrutura, concentrando minhas rotinas de desenvolvimento na criação de APIs escaláveis com Java e Spring Boot.
 <p align="left">
     <a href="https://github.com/gustavoxdz1?tab=repositories&sort=stargazers">
         <img 
